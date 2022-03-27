@@ -21,8 +21,7 @@ public class ExampleMultiPlataformScreemPoint : MonoBehaviour
       Camera camerainUse;
       RaycastHit RCH;
       /// <summary>
-      /// Variable that stores the beam that will be launched from the camera depending on the position
-      /// of the touched screen, towards the scene.
+      /// Configuracion del rayo a lanzar
       /// </summary>
       Ray _ray;
       
